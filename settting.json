@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Material Color(Dark Modern)",
+    "notebook.editorOptionsCustomizations": {},
+    "notebook.consolidatedRunButton": true,
+    "notebook.diff.overviewRuler": true,
+    "jupyter.allowUnauthorizedRemoteConnection": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true
+}
